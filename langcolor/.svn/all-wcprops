@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/langcolor/!svn/ver/18/1
+END
+index.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/langcolor/!svn/ver/8/1/index.wsgi
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/langcolor/!svn/ver/1/1/manage.py
+END
+config.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/langcolor/!svn/ver/13/1/config.yaml
+END
+app_langcolor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/langcolor/!svn/ver/25/1/app_langcolor.sql
+END
