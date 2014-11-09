@@ -1,8 +1,0 @@
-<html>
-<h2>
-YOUR SCORE IS {{ score }} !!!
-</h2>
-
-
-<a href="/colorquiz/">Challenge Again?</a>
-</html>
